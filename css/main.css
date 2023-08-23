@@ -1,0 +1,24 @@
+body {
+	width: 80%;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+.container-padding50 {
+	padding-top: 50px;
+}
+
+.container-textinput {
+	width: 100%;
+	display: inline-block;
+	padding: 20px;
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+}
+
+.container-image {
+	width: 30%;
+	display: block;
+	float: left;
+	margin-right:3%;
+}
